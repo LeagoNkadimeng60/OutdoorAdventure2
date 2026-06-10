@@ -19,17 +19,17 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             OutdoorAdventure2Theme {
+                
 
 
-                    )
+
                 }
             }
         }
     }
-}
 
 
-}
 
-    }
-}
+
+
+
